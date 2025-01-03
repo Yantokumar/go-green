@@ -11,3 +11,4 @@
 2025-01-02T16:28:44+07:00 | commit #11 | feat: implement synthesizer chime on click
 2025-01-02T20:28:32+07:00 | commit #12 | style: add pulse animation to brand dot
 2025-01-02T21:15:25+07:00 | commit #13 | test: unit test streak counter edge cases
+2025-01-03T12:36:01+07:00 | commit #14 | fix: avoid duplicate mark references in fast-import stream
