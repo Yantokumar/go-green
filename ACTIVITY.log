@@ -18,3 +18,4 @@
 2025-01-04T22:45:05+07:00 | commit #18 | docs: add architecture diagram for contribution engine
 2025-01-05T11:18:41+07:00 | commit #19 | docs: add architecture diagram for contribution engine
 2025-01-05T12:56:44+07:00 | commit #20 | refactor: optimize grid render speed
+2025-01-05T14:47:09+07:00 | commit #21 | fix: handle timezone offsets for international users
