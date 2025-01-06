@@ -23,3 +23,4 @@
 2025-01-05T20:25:46+07:00 | commit #23 | perf: optimize memory footprint for long streaks
 2025-01-05T22:20:02+07:00 | commit #24 | feat: add export script generator for Python and Bash
 2025-01-06T15:02:24+07:00 | commit #25 | docs: clarify installation steps in README
+2025-01-06T20:30:14+07:00 | commit #26 | style: improve mobile responsive layout for small screens
