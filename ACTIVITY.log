@@ -25,3 +25,4 @@
 2025-01-06T15:02:24+07:00 | commit #25 | docs: clarify installation steps in README
 2025-01-06T20:30:14+07:00 | commit #26 | style: improve mobile responsive layout for small screens
 2025-01-07T18:01:31+07:00 | commit #27 | fix: avoid duplicate mark references in fast-import stream
+2025-01-07T20:12:21+07:00 | commit #28 | fix: preserve brush selection on palette switch
