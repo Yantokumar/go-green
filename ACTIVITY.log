@@ -27,3 +27,4 @@
 2025-01-07T18:01:31+07:00 | commit #27 | fix: avoid duplicate mark references in fast-import stream
 2025-01-07T20:12:21+07:00 | commit #28 | fix: preserve brush selection on palette switch
 2025-01-08T14:36:13+07:00 | commit #29 | feat: add contribution matrix canvas
+2025-01-08T22:52:22+07:00 | commit #30 | feat: support custom Cyberpunk neon color palette
