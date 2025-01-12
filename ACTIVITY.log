@@ -42,3 +42,4 @@
 2025-01-12T11:46:28+07:00 | commit #42 | style: add pulse animation to brand dot
 2025-01-12T14:25:50+07:00 | commit #43 | fix: handle timezone offsets for international users
 2025-01-12T15:04:00+07:00 | commit #44 | feat: add export script generator for Python and Bash
+2025-01-12T21:09:29+07:00 | commit #45 | fix: preserve brush selection on palette switch
