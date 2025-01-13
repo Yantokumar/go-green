@@ -45,3 +45,4 @@
 2025-01-12T21:09:29+07:00 | commit #45 | fix: preserve brush selection on palette switch
 2025-01-13T10:40:47+07:00 | commit #46 | fix: avoid duplicate mark references in fast-import stream
 2025-01-13T11:50:54+07:00 | commit #47 | refactor: extract audio synthesizer into modular helper
+2025-01-13T13:04:18+07:00 | commit #48 | style: adjust card glow drop-shadows
