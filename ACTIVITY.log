@@ -1,4 +1,3 @@
-2025-01-02T16:28:44+07:00 | commit #11 | feat: implement synthesizer chime on click
 2025-01-02T20:28:32+07:00 | commit #12 | style: add pulse animation to brand dot
 2025-01-02T21:15:25+07:00 | commit #13 | test: unit test streak counter edge cases
 2025-01-03T12:36:01+07:00 | commit #14 | fix: avoid duplicate mark references in fast-import stream
@@ -48,3 +47,4 @@
 2025-01-15T09:42:03+07:00 | commit #58 | docs: clarify installation steps in README
 2025-01-15T11:11:49+07:00 | commit #59 | perf: memoize active streak calculation
 2025-01-15T15:54:34+07:00 | commit #60 | fix: avoid duplicate mark references in fast-import stream
+2025-01-15T16:22:47+07:00 | commit #61 | docs: clarify installation steps in README
