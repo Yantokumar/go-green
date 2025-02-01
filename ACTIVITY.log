@@ -1,4 +1,3 @@
-2025-01-23T18:39:42+07:00 | commit #91 | style: add pulse animation to brand dot
 2025-01-23T22:41:25+07:00 | commit #92 | feat: support custom Cyberpunk neon color palette
 2025-01-24T10:35:53+07:00 | commit #93 | feat: add contribution matrix canvas
 2025-01-24T14:24:31+07:00 | commit #94 | fix: preserve brush selection on palette switch
@@ -48,3 +47,4 @@
 2025-02-01T14:09:21+07:00 | commit #138 | perf: minimize DOM reflow during drag paint
 2025-02-01T15:42:13+07:00 | commit #139 | docs: update API notes for commit export
 2025-02-01T20:17:52+07:00 | commit #140 | feat: add export script generator for Python and Bash
+2025-02-01T22:10:29+07:00 | commit #141 | docs: add architecture diagram for contribution engine
