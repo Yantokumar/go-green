@@ -1,4 +1,3 @@
-2025-01-26T16:01:30+07:00 | commit #107 | style: add pulse animation to brand dot
 2025-01-27T08:35:35+07:00 | commit #108 | fix: preserve brush selection on palette switch
 2025-01-27T13:50:11+07:00 | commit #109 | style: polish dark-mode theme variables
 2025-01-27T15:01:00+07:00 | commit #110 | perf: memoize active streak calculation
@@ -48,3 +47,4 @@
 2025-02-04T21:41:16+07:00 | commit #154 | refactor: extract audio synthesizer into modular helper
 2025-02-05T10:39:42+07:00 | commit #155 | feat: support custom Cyberpunk neon color palette
 2025-02-05T13:25:34+07:00 | commit #156 | docs: update API notes for commit export
+2025-02-05T17:28:45+07:00 | commit #157 | style: polish dark-mode theme variables
