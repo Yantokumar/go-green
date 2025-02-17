@@ -1,4 +1,3 @@
-2025-02-04T20:07:04+07:00 | commit #153 | test: unit test streak counter edge cases
 2025-02-04T21:41:16+07:00 | commit #154 | refactor: extract audio synthesizer into modular helper
 2025-02-05T10:39:42+07:00 | commit #155 | feat: support custom Cyberpunk neon color palette
 2025-02-05T13:25:34+07:00 | commit #156 | docs: update API notes for commit export
@@ -48,3 +47,4 @@
 2025-02-16T11:01:58+07:00 | commit #200 | perf: minimize DOM reflow during drag paint
 2025-02-16T19:19:42+07:00 | commit #201 | refactor: optimize grid render speed
 2025-02-16T20:58:56+07:00 | commit #202 | fix: preserve brush selection on palette switch
+2025-02-17T08:20:36+07:00 | commit #203 | perf: optimize memory footprint for long streaks
