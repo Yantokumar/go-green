@@ -1,4 +1,3 @@
-2025-02-07T11:35:52+07:00 | commit #166 | feat: add export script generator for Python and Bash
 2025-02-07T14:24:54+07:00 | commit #167 | style: improve mobile responsive layout for small screens
 2025-02-07T20:22:16+07:00 | commit #168 | refactor: clean up event listeners on grid canvas
 2025-02-07T22:57:01+07:00 | commit #169 | refactor: clean up event listeners on grid canvas
@@ -48,3 +47,4 @@
 2025-02-19T14:14:50+07:00 | commit #213 | perf: optimize memory footprint for long streaks
 2025-02-19T15:22:43+07:00 | commit #214 | style: add pulse animation to brand dot
 2025-02-19T20:02:17+07:00 | commit #215 | test: unit test streak counter edge cases
+2025-02-20T11:50:05+07:00 | commit #216 | feat: support custom Cyberpunk neon color palette
