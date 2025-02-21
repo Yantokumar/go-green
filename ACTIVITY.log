@@ -1,4 +1,3 @@
-2025-02-07T20:22:16+07:00 | commit #168 | refactor: clean up event listeners on grid canvas
 2025-02-07T22:57:01+07:00 | commit #169 | refactor: clean up event listeners on grid canvas
 2025-02-08T08:08:46+07:00 | commit #170 | feat: add contribution matrix canvas
 2025-02-08T09:07:57+07:00 | commit #171 | feat: support custom Cyberpunk neon color palette
@@ -48,3 +47,4 @@
 2025-02-19T20:02:17+07:00 | commit #215 | test: unit test streak counter edge cases
 2025-02-20T11:50:05+07:00 | commit #216 | feat: support custom Cyberpunk neon color palette
 2025-02-20T19:34:34+07:00 | commit #217 | fix: handle timezone offsets for international users
+2025-02-21T12:08:04+07:00 | commit #218 | style: add pulse animation to brand dot
