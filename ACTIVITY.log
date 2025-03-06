@@ -1,4 +1,3 @@
-2025-02-19T12:11:51+07:00 | commit #212 | refactor: optimize grid render speed
 2025-02-19T14:14:50+07:00 | commit #213 | perf: optimize memory footprint for long streaks
 2025-02-19T15:22:43+07:00 | commit #214 | style: add pulse animation to brand dot
 2025-02-19T20:02:17+07:00 | commit #215 | test: unit test streak counter edge cases
@@ -48,3 +47,4 @@
 2025-03-05T14:32:29+07:00 | commit #259 | feat: add contribution matrix canvas
 2025-03-05T16:46:26+07:00 | commit #260 | perf: optimize memory footprint for long streaks
 2025-03-05T19:01:42+07:00 | commit #261 | perf: minimize DOM reflow during drag paint
+2025-03-06T08:05:08+07:00 | commit #262 | style: add pulse animation to brand dot
