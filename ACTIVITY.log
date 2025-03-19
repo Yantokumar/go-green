@@ -1,4 +1,3 @@
-2025-03-08T11:07:00+07:00 | commit #271 | feat: add solar amber and moss teal theme palettes
 2025-03-08T13:24:33+07:00 | commit #272 | feat: add export script generator for Python and Bash
 2025-03-08T15:12:27+07:00 | commit #273 | feat: add solar amber and moss teal theme palettes
 2025-03-09T08:24:13+07:00 | commit #274 | fix: preserve brush selection on palette switch
@@ -48,3 +47,4 @@
 2025-03-18T19:28:44+07:00 | commit #318 | test: unit test streak counter edge cases
 2025-03-19T08:03:03+07:00 | commit #319 | fix: avoid duplicate mark references in fast-import stream
 2025-03-19T16:21:01+07:00 | commit #320 | test: unit test streak counter edge cases
+2025-03-19T18:40:46+07:00 | commit #321 | chore: update project dependencies and metadata
