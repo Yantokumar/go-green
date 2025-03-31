@@ -1,4 +1,3 @@
-2025-03-21T19:55:37+07:00 | commit #334 | feat: add export script generator for Python and Bash
 2025-03-21T20:31:05+07:00 | commit #335 | refactor: clean up event listeners on grid canvas
 2025-03-22T08:25:32+07:00 | commit #336 | style: polish dark-mode theme variables
 2025-03-22T09:17:06+07:00 | commit #337 | docs: update API notes for commit export
@@ -48,3 +47,4 @@
 2025-03-29T22:10:38+07:00 | commit #381 | perf: optimize memory footprint for long streaks
 2025-03-30T10:56:06+07:00 | commit #382 | docs: clarify installation steps in README
 2025-03-30T16:02:19+07:00 | commit #383 | docs: add architecture diagram for contribution engine
+2025-03-31T10:41:50+07:00 | commit #384 | docs: clarify installation steps in README
