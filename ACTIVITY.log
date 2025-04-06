@@ -1,4 +1,3 @@
-2025-03-26T12:33:30+07:00 | commit #359 | feat: implement synthesizer chime on click
 2025-03-26T14:50:56+07:00 | commit #360 | refactor: clean up event listeners on grid canvas
 2025-03-26T15:21:01+07:00 | commit #361 | refactor: clean up event listeners on grid canvas
 2025-03-26T18:04:52+07:00 | commit #362 | docs: add architecture diagram for contribution engine
@@ -48,3 +47,4 @@
 2025-04-05T19:15:03+07:00 | commit #406 | perf: optimize memory footprint for long streaks
 2025-04-05T20:33:16+07:00 | commit #407 | docs: update API notes for commit export
 2025-04-05T22:59:01+07:00 | commit #408 | feat: add contribution matrix canvas
+2025-04-06T08:50:24+07:00 | commit #409 | style: add pulse animation to brand dot
