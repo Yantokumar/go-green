@@ -1,4 +1,3 @@
-2025-03-30T10:56:06+07:00 | commit #382 | docs: clarify installation steps in README
 2025-03-30T16:02:19+07:00 | commit #383 | docs: add architecture diagram for contribution engine
 2025-03-31T10:41:50+07:00 | commit #384 | docs: clarify installation steps in README
 2025-03-31T18:21:22+07:00 | commit #385 | fix: preserve brush selection on palette switch
@@ -48,3 +47,4 @@
 2025-04-10T10:05:30+07:00 | commit #429 | refactor: clean up event listeners on grid canvas
 2025-04-10T13:58:43+07:00 | commit #430 | docs: clarify installation steps in README
 2025-04-10T21:06:58+07:00 | commit #431 | refactor: optimize grid render speed
+2025-04-11T10:18:20+07:00 | commit #432 | style: add pulse animation to brand dot
