@@ -1,4 +1,3 @@
-2025-04-04T13:33:32+07:00 | commit #399 | docs: update API notes for commit export
 2025-04-04T15:29:18+07:00 | commit #400 | feat: support custom Cyberpunk neon color palette
 2025-04-04T22:32:03+07:00 | commit #401 | fix: handle timezone offsets for international users
 2025-04-05T12:18:16+07:00 | commit #402 | style: polish dark-mode theme variables
@@ -48,3 +47,4 @@
 2025-04-13T22:04:31+07:00 | commit #446 | feat: add export script generator for Python and Bash
 2025-04-14T08:19:23+07:00 | commit #447 | docs: update API notes for commit export
 2025-04-14T10:51:25+07:00 | commit #448 | refactor: extract audio synthesizer into modular helper
+2025-04-14T11:24:57+07:00 | commit #449 | perf: memoize active streak calculation
