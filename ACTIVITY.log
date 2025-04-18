@@ -1,4 +1,3 @@
-2025-04-07T13:02:17+07:00 | commit #417 | refactor: clean up event listeners on grid canvas
 2025-04-07T15:09:19+07:00 | commit #418 | docs: update API notes for commit export
 2025-04-07T16:57:04+07:00 | commit #419 | fix: avoid duplicate mark references in fast-import stream
 2025-04-07T19:42:38+07:00 | commit #420 | feat: add solar amber and moss teal theme palettes
@@ -48,3 +47,4 @@
 2025-04-17T13:25:52+07:00 | commit #464 | test: unit test streak counter edge cases
 2025-04-17T22:57:49+07:00 | commit #465 | style: add pulse animation to brand dot
 2025-04-18T11:31:07+07:00 | commit #466 | feat: add solar amber and moss teal theme palettes
+2025-04-18T18:18:06+07:00 | commit #467 | chore: update project dependencies and metadata
