@@ -1,4 +1,3 @@
-2025-04-08T11:28:27+07:00 | commit #424 | style: adjust card glow drop-shadows
 2025-04-08T17:02:13+07:00 | commit #425 | feat: add automated streak visualizer
 2025-04-08T22:08:10+07:00 | commit #426 | style: polish dark-mode theme variables
 2025-04-09T10:08:26+07:00 | commit #427 | feat: add solar amber and moss teal theme palettes
@@ -48,3 +47,4 @@
 2025-04-19T21:05:52+07:00 | commit #471 | docs: clarify installation steps in README
 2025-04-20T09:24:11+07:00 | commit #472 | feat: add automated streak visualizer
 2025-04-20T17:24:51+07:00 | commit #473 | perf: optimize memory footprint for long streaks
+2025-04-21T09:58:46+07:00 | commit #474 | refactor: extract audio synthesizer into modular helper
