@@ -1,4 +1,3 @@
-2025-05-11T09:19:51+07:00 | commit #568 | style: improve mobile responsive layout for small screens
 2025-05-11T18:57:13+07:00 | commit #569 | style: add pulse animation to brand dot
 2025-05-11T21:45:26+07:00 | commit #570 | refactor: extract audio synthesizer into modular helper
 2025-05-11T22:24:07+07:00 | commit #571 | fix: preserve brush selection on palette switch
@@ -48,3 +47,4 @@
 2025-05-23T13:20:50+07:00 | commit #615 | feat: add solar amber and moss teal theme palettes
 2025-05-23T14:38:07+07:00 | commit #616 | perf: memoize active streak calculation
 2025-05-24T17:30:27+07:00 | commit #617 | feat: add contribution matrix canvas
+2025-05-24T20:58:06+07:00 | commit #618 | docs: update API notes for commit export
