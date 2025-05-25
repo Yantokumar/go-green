@@ -1,4 +1,3 @@
-2025-05-11T21:45:26+07:00 | commit #570 | refactor: extract audio synthesizer into modular helper
 2025-05-11T22:24:07+07:00 | commit #571 | fix: preserve brush selection on palette switch
 2025-05-12T09:43:12+07:00 | commit #572 | refactor: optimize grid render speed
 2025-05-12T13:20:24+07:00 | commit #573 | feat: add contribution matrix canvas
@@ -48,3 +47,4 @@
 2025-05-24T17:30:27+07:00 | commit #617 | feat: add contribution matrix canvas
 2025-05-24T20:58:06+07:00 | commit #618 | docs: update API notes for commit export
 2025-05-25T12:16:45+07:00 | commit #619 | refactor: optimize grid render speed
+2025-05-25T15:25:34+07:00 | commit #620 | style: add pulse animation to brand dot
