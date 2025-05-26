@@ -1,4 +1,3 @@
-2025-05-14T13:03:55+07:00 | commit #579 | refactor: optimize grid render speed
 2025-05-14T14:26:46+07:00 | commit #580 | style: adjust card glow drop-shadows
 2025-05-14T16:08:54+07:00 | commit #581 | fix: handle timezone offsets for international users
 2025-05-14T19:35:12+07:00 | commit #582 | refactor: clean up event listeners on grid canvas
@@ -48,3 +47,4 @@
 2025-05-26T08:39:41+07:00 | commit #626 | perf: memoize active streak calculation
 2025-05-26T09:34:56+07:00 | commit #627 | fix: handle timezone offsets for international users
 2025-05-26T10:48:35+07:00 | commit #628 | test: unit test streak counter edge cases
+2025-05-26T13:01:19+07:00 | commit #629 | docs: clarify installation steps in README
