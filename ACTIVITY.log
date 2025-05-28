@@ -1,4 +1,3 @@
-2025-05-16T09:39:32+07:00 | commit #587 | docs: update API notes for commit export
 2025-05-16T10:03:28+07:00 | commit #588 | feat: implement synthesizer chime on click
 2025-05-17T10:45:52+07:00 | commit #589 | feat: add contribution matrix canvas
 2025-05-17T15:43:33+07:00 | commit #590 | perf: memoize active streak calculation
@@ -48,3 +47,4 @@
 2025-05-27T15:57:40+07:00 | commit #634 | fix: avoid duplicate mark references in fast-import stream
 2025-05-27T19:04:26+07:00 | commit #635 | feat: support custom Cyberpunk neon color palette
 2025-05-28T08:34:04+07:00 | commit #636 | feat: add contribution matrix canvas
+2025-05-28T11:58:11+07:00 | commit #637 | fix: avoid duplicate mark references in fast-import stream
