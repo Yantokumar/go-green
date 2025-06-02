@@ -1,4 +1,3 @@
-2025-05-22T21:19:41+07:00 | commit #613 | feat: support custom Cyberpunk neon color palette
 2025-05-22T22:36:58+07:00 | commit #614 | perf: memoize active streak calculation
 2025-05-23T13:20:50+07:00 | commit #615 | feat: add solar amber and moss teal theme palettes
 2025-05-23T14:38:07+07:00 | commit #616 | perf: memoize active streak calculation
@@ -48,3 +47,4 @@
 2025-06-01T18:51:19+07:00 | commit #660 | test: unit test streak counter edge cases
 2025-06-01T19:04:01+07:00 | commit #661 | docs: add architecture diagram for contribution engine
 2025-06-01T20:59:13+07:00 | commit #662 | style: polish dark-mode theme variables
+2025-06-02T10:42:15+07:00 | commit #663 | perf: minimize DOM reflow during drag paint
