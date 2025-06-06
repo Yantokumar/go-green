@@ -1,4 +1,3 @@
-2025-05-28T08:34:04+07:00 | commit #636 | feat: add contribution matrix canvas
 2025-05-28T11:58:11+07:00 | commit #637 | fix: avoid duplicate mark references in fast-import stream
 2025-05-28T12:19:55+07:00 | commit #638 | test: unit test streak counter edge cases
 2025-05-28T15:41:09+07:00 | commit #639 | feat: add solar amber and moss teal theme palettes
@@ -48,3 +47,4 @@
 2025-06-06T15:07:16+07:00 | commit #683 | test: unit test streak counter edge cases
 2025-06-06T16:46:01+07:00 | commit #684 | style: add pulse animation to brand dot
 2025-06-06T20:10:36+07:00 | commit #685 | docs: add architecture diagram for contribution engine
+2025-06-06T22:03:30+07:00 | commit #686 | style: adjust card glow drop-shadows
