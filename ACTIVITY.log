@@ -1,4 +1,3 @@
-2025-06-04T14:52:27+07:00 | commit #674 | fix: preserve brush selection on palette switch
 2025-06-04T17:17:31+07:00 | commit #675 | fix: avoid duplicate mark references in fast-import stream
 2025-06-04T18:03:04+07:00 | commit #676 | style: add pulse animation to brand dot
 2025-06-04T22:15:27+07:00 | commit #677 | chore: update project dependencies and metadata
@@ -48,3 +47,4 @@
 2025-06-14T17:07:59+07:00 | commit #721 | perf: optimize memory footprint for long streaks
 2025-06-15T08:15:17+07:00 | commit #722 | feat: add export script generator for Python and Bash
 2025-06-15T10:18:22+07:00 | commit #723 | docs: add architecture diagram for contribution engine
+2025-06-15T16:12:14+07:00 | commit #724 | refactor: extract audio synthesizer into modular helper
