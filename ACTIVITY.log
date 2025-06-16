@@ -1,4 +1,3 @@
-2025-06-05T11:39:50+07:00 | commit #679 | fix: avoid duplicate mark references in fast-import stream
 2025-06-05T19:35:51+07:00 | commit #680 | docs: add architecture diagram for contribution engine
 2025-06-05T20:20:16+07:00 | commit #681 | feat: support custom Cyberpunk neon color palette
 2025-06-06T10:37:09+07:00 | commit #682 | fix: handle timezone offsets for international users
@@ -48,3 +47,4 @@
 2025-06-15T18:20:36+07:00 | commit #726 | style: polish dark-mode theme variables
 2025-06-15T21:55:41+07:00 | commit #727 | feat: add export script generator for Python and Bash
 2025-06-16T15:22:15+07:00 | commit #728 | docs: update API notes for commit export
+2025-06-16T17:30:53+07:00 | commit #729 | fix: preserve brush selection on palette switch
