@@ -1,4 +1,3 @@
-2025-06-09T15:00:41+07:00 | commit #697 | style: polish dark-mode theme variables
 2025-06-09T18:36:06+07:00 | commit #698 | feat: add solar amber and moss teal theme palettes
 2025-06-09T20:05:42+07:00 | commit #699 | refactor: clean up event listeners on grid canvas
 2025-06-09T21:24:09+07:00 | commit #700 | style: adjust card glow drop-shadows
@@ -48,3 +47,4 @@
 2025-06-19T08:40:46+07:00 | commit #744 | feat: implement synthesizer chime on click
 2025-06-19T19:28:27+07:00 | commit #745 | fix: handle timezone offsets for international users
 2025-06-19T21:10:42+07:00 | commit #746 | feat: add export script generator for Python and Bash
+2025-06-20T09:37:01+07:00 | commit #747 | refactor: extract audio synthesizer into modular helper
