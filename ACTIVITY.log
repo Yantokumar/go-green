@@ -1,4 +1,3 @@
-2025-06-22T21:50:45+07:00 | commit #761 | perf: memoize active streak calculation
 2025-06-23T13:27:06+07:00 | commit #762 | refactor: clean up event listeners on grid canvas
 2025-06-23T18:58:43+07:00 | commit #763 | feat: implement synthesizer chime on click
 2025-06-23T22:22:24+07:00 | commit #764 | refactor: extract audio synthesizer into modular helper
@@ -48,3 +47,4 @@
 2025-07-02T12:15:19+07:00 | commit #808 | docs: add architecture diagram for contribution engine
 2025-07-02T20:03:53+07:00 | commit #809 | feat: add export script generator for Python and Bash
 2025-07-02T21:06:41+07:00 | commit #810 | refactor: optimize grid render speed
+2025-07-02T22:39:57+07:00 | commit #811 | fix: avoid duplicate mark references in fast-import stream
