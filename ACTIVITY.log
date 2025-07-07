@@ -1,4 +1,3 @@
-2025-06-27T11:19:03+07:00 | commit #785 | perf: minimize DOM reflow during drag paint
 2025-06-27T17:16:57+07:00 | commit #786 | refactor: clean up event listeners on grid canvas
 2025-06-27T18:55:34+07:00 | commit #787 | test: unit test streak counter edge cases
 2025-06-27T19:01:25+07:00 | commit #788 | fix: avoid duplicate mark references in fast-import stream
@@ -48,3 +47,4 @@
 2025-07-07T13:39:08+07:00 | commit #832 | feat: support custom Cyberpunk neon color palette
 2025-07-07T17:12:42+07:00 | commit #833 | docs: add architecture diagram for contribution engine
 2025-07-07T18:15:36+07:00 | commit #834 | feat: add export script generator for Python and Bash
+2025-07-07T22:05:16+07:00 | commit #835 | docs: add architecture diagram for contribution engine
