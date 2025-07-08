@@ -1,4 +1,3 @@
-2025-06-28T12:39:26+07:00 | commit #791 | docs: clarify installation steps in README
 2025-06-28T14:10:49+07:00 | commit #792 | refactor: extract audio synthesizer into modular helper
 2025-06-28T15:27:00+07:00 | commit #793 | feat: add contribution matrix canvas
 2025-06-28T22:58:41+07:00 | commit #794 | perf: optimize memory footprint for long streaks
@@ -48,3 +47,4 @@
 2025-07-08T14:45:48+07:00 | commit #838 | perf: minimize DOM reflow during drag paint
 2025-07-08T18:33:04+07:00 | commit #839 | fix: avoid duplicate mark references in fast-import stream
 2025-07-08T19:13:26+07:00 | commit #840 | style: improve mobile responsive layout for small screens
+2025-07-08T21:21:46+07:00 | commit #841 | perf: minimize DOM reflow during drag paint
