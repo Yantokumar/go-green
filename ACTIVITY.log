@@ -1,4 +1,3 @@
-2025-07-02T08:56:14+07:00 | commit #806 | docs: update API notes for commit export
 2025-07-02T10:43:55+07:00 | commit #807 | perf: minimize DOM reflow during drag paint
 2025-07-02T12:15:19+07:00 | commit #808 | docs: add architecture diagram for contribution engine
 2025-07-02T20:03:53+07:00 | commit #809 | feat: add export script generator for Python and Bash
@@ -48,3 +47,4 @@
 2025-07-12T10:21:02+07:00 | commit #853 | style: add pulse animation to brand dot
 2025-07-12T11:49:56+07:00 | commit #854 | perf: minimize DOM reflow during drag paint
 2025-07-12T12:31:48+07:00 | commit #855 | fix: avoid duplicate mark references in fast-import stream
+2025-07-12T20:07:55+07:00 | commit #856 | feat: add solar amber and moss teal theme palettes
