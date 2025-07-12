@@ -1,4 +1,3 @@
-2025-07-01T19:24:04+07:00 | commit #804 | refactor: clean up event listeners on grid canvas
 2025-07-01T20:44:47+07:00 | commit #805 | refactor: optimize grid render speed
 2025-07-02T08:56:14+07:00 | commit #806 | docs: update API notes for commit export
 2025-07-02T10:43:55+07:00 | commit #807 | perf: minimize DOM reflow during drag paint
@@ -48,3 +47,4 @@
 2025-07-11T13:34:15+07:00 | commit #851 | perf: memoize active streak calculation
 2025-07-11T15:46:43+07:00 | commit #852 | feat: add automated streak visualizer
 2025-07-12T10:21:02+07:00 | commit #853 | style: add pulse animation to brand dot
+2025-07-12T11:49:56+07:00 | commit #854 | perf: minimize DOM reflow during drag paint
