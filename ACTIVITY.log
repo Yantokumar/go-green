@@ -1,4 +1,3 @@
-2025-07-08T19:13:26+07:00 | commit #840 | style: improve mobile responsive layout for small screens
 2025-07-08T21:21:46+07:00 | commit #841 | perf: minimize DOM reflow during drag paint
 2025-07-09T10:35:09+07:00 | commit #842 | feat: add export script generator for Python and Bash
 2025-07-09T12:46:13+07:00 | commit #843 | test: unit test streak counter edge cases
@@ -48,3 +47,4 @@
 2025-07-19T21:56:57+07:00 | commit #887 | docs: add architecture diagram for contribution engine
 2025-07-20T14:11:22+07:00 | commit #888 | perf: optimize memory footprint for long streaks
 2025-07-20T15:30:26+07:00 | commit #889 | style: polish dark-mode theme variables
+2025-07-20T21:56:47+07:00 | commit #890 | fix: avoid duplicate mark references in fast-import stream
