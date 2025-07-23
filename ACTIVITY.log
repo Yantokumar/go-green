@@ -1,4 +1,3 @@
-2025-07-12T11:49:56+07:00 | commit #854 | perf: minimize DOM reflow during drag paint
 2025-07-12T12:31:48+07:00 | commit #855 | fix: avoid duplicate mark references in fast-import stream
 2025-07-12T20:07:55+07:00 | commit #856 | feat: add solar amber and moss teal theme palettes
 2025-07-13T08:23:00+07:00 | commit #857 | feat: add contribution matrix canvas
@@ -48,3 +47,4 @@
 2025-07-23T10:42:16+07:00 | commit #901 | feat: add contribution matrix canvas
 2025-07-23T12:57:38+07:00 | commit #902 | docs: add architecture diagram for contribution engine
 2025-07-23T14:08:42+07:00 | commit #903 | perf: optimize memory footprint for long streaks
+2025-07-23T22:21:31+07:00 | commit #904 | perf: minimize DOM reflow during drag paint
