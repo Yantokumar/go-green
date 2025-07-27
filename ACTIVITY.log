@@ -1,4 +1,3 @@
-2025-07-17T13:18:01+07:00 | commit #875 | docs: clarify installation steps in README
 2025-07-18T08:43:20+07:00 | commit #876 | style: improve mobile responsive layout for small screens
 2025-07-18T09:28:21+07:00 | commit #877 | refactor: extract audio synthesizer into modular helper
 2025-07-18T12:52:27+07:00 | commit #878 | perf: optimize memory footprint for long streaks
@@ -48,3 +47,4 @@
 2025-07-27T09:07:01+07:00 | commit #922 | style: polish dark-mode theme variables
 2025-07-27T15:59:43+07:00 | commit #923 | fix: avoid duplicate mark references in fast-import stream
 2025-07-27T16:34:30+07:00 | commit #924 | feat: support custom Cyberpunk neon color palette
+2025-07-27T18:03:01+07:00 | commit #925 | refactor: extract audio synthesizer into modular helper
