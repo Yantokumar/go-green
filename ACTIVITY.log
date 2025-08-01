@@ -1,4 +1,3 @@
-2025-07-23T14:08:42+07:00 | commit #903 | perf: optimize memory footprint for long streaks
 2025-07-23T22:21:31+07:00 | commit #904 | perf: minimize DOM reflow during drag paint
 2025-07-24T11:09:41+07:00 | commit #905 | docs: add architecture diagram for contribution engine
 2025-07-24T13:58:05+07:00 | commit #906 | docs: add architecture diagram for contribution engine
@@ -48,3 +47,4 @@
 2025-08-01T16:53:11+07:00 | commit #950 | refactor: extract audio synthesizer into modular helper
 2025-08-01T18:35:00+07:00 | commit #951 | style: improve mobile responsive layout for small screens
 2025-08-01T19:41:56+07:00 | commit #952 | style: improve mobile responsive layout for small screens
+2025-08-01T21:04:58+07:00 | commit #953 | docs: update API notes for commit export
