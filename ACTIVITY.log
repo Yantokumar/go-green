@@ -1,4 +1,3 @@
-2025-08-07T17:25:17+07:00 | commit #976 | perf: minimize DOM reflow during drag paint
 2025-08-07T18:26:20+07:00 | commit #977 | feat: support custom Cyberpunk neon color palette
 2025-08-07T20:31:10+07:00 | commit #978 | feat: add solar amber and moss teal theme palettes
 2025-08-08T09:37:32+07:00 | commit #979 | perf: optimize memory footprint for long streaks
@@ -48,3 +47,4 @@
 2025-08-19T22:23:15+07:00 | commit #1023 | refactor: clean up event listeners on grid canvas
 2025-08-20T09:26:09+07:00 | commit #1024 | perf: memoize active streak calculation
 2025-08-20T18:33:03+07:00 | commit #1025 | refactor: extract audio synthesizer into modular helper
+2025-08-21T10:33:11+07:00 | commit #1026 | feat: add export script generator for Python and Bash
