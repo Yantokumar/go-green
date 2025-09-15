@@ -1,4 +1,3 @@
-2025-09-05T15:44:48+07:00 | commit #1093 | style: improve mobile responsive layout for small screens
 2025-09-05T16:22:15+07:00 | commit #1094 | perf: memoize active streak calculation
 2025-09-05T18:11:09+07:00 | commit #1095 | feat: support custom Cyberpunk neon color palette
 2025-09-05T19:05:59+07:00 | commit #1096 | refactor: extract audio synthesizer into modular helper
@@ -48,3 +47,4 @@
 2025-09-14T15:09:10+07:00 | commit #1140 | feat: add automated streak visualizer
 2025-09-15T08:24:39+07:00 | commit #1141 | refactor: optimize grid render speed
 2025-09-15T09:49:35+07:00 | commit #1142 | refactor: clean up event listeners on grid canvas
+2025-09-15T11:29:52+07:00 | commit #1143 | style: add pulse animation to brand dot
