@@ -1,4 +1,3 @@
-2025-09-17T11:29:38+07:00 | commit #1153 | style: add pulse animation to brand dot
 2025-09-17T13:55:16+07:00 | commit #1154 | fix: avoid duplicate mark references in fast-import stream
 2025-09-17T14:38:27+07:00 | commit #1155 | perf: memoize active streak calculation
 2025-09-17T16:52:59+07:00 | commit #1156 | feat: support custom Cyberpunk neon color palette
@@ -48,3 +47,4 @@
 2025-09-28T13:34:34+07:00 | commit #1200 | style: improve mobile responsive layout for small screens
 2025-09-28T16:39:50+07:00 | commit #1201 | feat: add contribution matrix canvas
 2025-09-28T17:36:14+07:00 | commit #1202 | style: adjust card glow drop-shadows
+2025-09-28T18:28:22+07:00 | commit #1203 | style: adjust card glow drop-shadows
