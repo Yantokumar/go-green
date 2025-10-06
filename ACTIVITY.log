@@ -1,4 +1,3 @@
-2025-09-25T14:11:07+07:00 | commit #1188 | refactor: optimize grid render speed
 2025-09-25T20:02:47+07:00 | commit #1189 | perf: memoize active streak calculation
 2025-09-25T21:16:27+07:00 | commit #1190 | style: adjust card glow drop-shadows
 2025-09-26T09:00:32+07:00 | commit #1191 | docs: add architecture diagram for contribution engine
@@ -48,3 +47,4 @@
 2025-10-06T09:49:27+07:00 | commit #1235 | fix: handle timezone offsets for international users
 2025-10-06T11:43:29+07:00 | commit #1236 | perf: minimize DOM reflow during drag paint
 2025-10-06T12:47:17+07:00 | commit #1237 | fix: preserve brush selection on palette switch
+2025-10-06T15:12:59+07:00 | commit #1238 | fix: avoid duplicate mark references in fast-import stream
