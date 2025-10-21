@@ -1,4 +1,3 @@
-2025-10-09T19:59:17+07:00 | commit #1250 | refactor: optimize grid render speed
 2025-10-09T21:05:36+07:00 | commit #1251 | style: polish dark-mode theme variables
 2025-10-09T22:16:43+07:00 | commit #1252 | refactor: optimize grid render speed
 2025-10-10T13:38:58+07:00 | commit #1253 | docs: clarify installation steps in README
@@ -48,3 +47,4 @@
 2025-10-21T10:28:11+07:00 | commit #1297 | feat: add export script generator for Python and Bash
 2025-10-21T11:33:51+07:00 | commit #1298 | fix: preserve brush selection on palette switch
 2025-10-21T15:04:00+07:00 | commit #1299 | style: improve mobile responsive layout for small screens
+2025-10-21T16:56:33+07:00 | commit #1300 | feat: add automated streak visualizer
