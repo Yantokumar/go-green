@@ -1,4 +1,3 @@
-2025-10-21T21:21:10+07:00 | commit #1301 | style: add pulse animation to brand dot
 2025-10-21T22:12:07+07:00 | commit #1302 | feat: support custom Cyberpunk neon color palette
 2025-10-22T09:55:22+07:00 | commit #1303 | feat: add solar amber and moss teal theme palettes
 2025-10-22T11:00:53+07:00 | commit #1304 | style: improve mobile responsive layout for small screens
@@ -48,3 +47,4 @@
 2025-10-31T16:57:16+07:00 | commit #1348 | feat: add automated streak visualizer
 2025-10-31T18:26:31+07:00 | commit #1349 | test: unit test streak counter edge cases
 2025-11-01T08:05:36+07:00 | commit #1350 | feat: add export script generator for Python and Bash
+2025-11-01T09:27:53+07:00 | commit #1351 | refactor: extract audio synthesizer into modular helper
