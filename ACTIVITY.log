@@ -1,4 +1,3 @@
-2025-10-26T21:15:39+07:00 | commit #1322 | feat: add solar amber and moss teal theme palettes
 2025-10-26T22:45:24+07:00 | commit #1323 | feat: add solar amber and moss teal theme palettes
 2025-10-27T10:41:45+07:00 | commit #1324 | fix: preserve brush selection on palette switch
 2025-10-27T11:25:37+07:00 | commit #1325 | docs: clarify installation steps in README
@@ -48,3 +47,4 @@
 2025-11-03T19:16:55+07:00 | commit #1369 | feat: support custom Cyberpunk neon color palette
 2025-11-03T22:22:55+07:00 | commit #1370 | docs: clarify installation steps in README
 2025-11-04T11:15:45+07:00 | commit #1371 | refactor: extract audio synthesizer into modular helper
+2025-11-04T18:35:33+07:00 | commit #1372 | feat: add automated streak visualizer
