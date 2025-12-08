@@ -1,4 +1,3 @@
-2025-11-26T13:01:53+07:00 | commit #1472 | perf: optimize memory footprint for long streaks
 2025-11-26T16:18:18+07:00 | commit #1473 | feat: add export script generator for Python and Bash
 2025-11-26T19:30:53+07:00 | commit #1474 | test: unit test streak counter edge cases
 2025-11-27T09:50:41+07:00 | commit #1475 | fix: handle timezone offsets for international users
@@ -48,3 +47,4 @@
 2025-12-07T10:38:08+07:00 | commit #1519 | feat: add automated streak visualizer
 2025-12-07T13:25:19+07:00 | commit #1520 | feat: add automated streak visualizer
 2025-12-07T19:28:46+07:00 | commit #1521 | perf: memoize active streak calculation
+2025-12-08T08:07:35+07:00 | commit #1522 | style: adjust card glow drop-shadows
