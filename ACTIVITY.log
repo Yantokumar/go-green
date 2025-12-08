@@ -1,4 +1,3 @@
-2025-11-26T19:30:53+07:00 | commit #1474 | test: unit test streak counter edge cases
 2025-11-27T09:50:41+07:00 | commit #1475 | fix: handle timezone offsets for international users
 2025-11-27T15:20:33+07:00 | commit #1476 | docs: update API notes for commit export
 2025-11-27T19:59:14+07:00 | commit #1477 | fix: avoid duplicate mark references in fast-import stream
@@ -48,3 +47,4 @@
 2025-12-07T19:28:46+07:00 | commit #1521 | perf: memoize active streak calculation
 2025-12-08T08:07:35+07:00 | commit #1522 | style: adjust card glow drop-shadows
 2025-12-08T10:43:14+07:00 | commit #1523 | docs: update API notes for commit export
+2025-12-08T11:07:08+07:00 | commit #1524 | style: polish dark-mode theme variables
