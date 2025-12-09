@@ -1,4 +1,3 @@
-2025-11-28T08:55:12+07:00 | commit #1480 | feat: support custom Cyberpunk neon color palette
 2025-11-28T10:06:16+07:00 | commit #1481 | feat: add solar amber and moss teal theme palettes
 2025-11-28T14:29:39+07:00 | commit #1482 | refactor: extract audio synthesizer into modular helper
 2025-11-28T20:59:36+07:00 | commit #1483 | fix: handle timezone offsets for international users
@@ -48,3 +47,4 @@
 2025-12-08T16:22:11+07:00 | commit #1527 | style: adjust card glow drop-shadows
 2025-12-08T20:00:49+07:00 | commit #1528 | feat: support custom Cyberpunk neon color palette
 2025-12-09T08:07:18+07:00 | commit #1529 | refactor: extract audio synthesizer into modular helper
+2025-12-09T11:02:12+07:00 | commit #1530 | refactor: clean up event listeners on grid canvas
