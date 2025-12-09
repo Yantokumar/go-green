@@ -1,4 +1,3 @@
-2025-11-29T09:30:42+07:00 | commit #1484 | docs: add architecture diagram for contribution engine
 2025-11-29T10:15:58+07:00 | commit #1485 | feat: add contribution matrix canvas
 2025-11-29T14:06:05+07:00 | commit #1486 | refactor: extract audio synthesizer into modular helper
 2025-11-29T15:14:55+07:00 | commit #1487 | refactor: clean up event listeners on grid canvas
@@ -48,3 +47,4 @@
 2025-12-09T16:50:02+07:00 | commit #1531 | style: improve mobile responsive layout for small screens
 2025-12-09T17:50:01+07:00 | commit #1532 | perf: memoize active streak calculation
 2025-12-09T19:44:07+07:00 | commit #1533 | perf: minimize DOM reflow during drag paint
+2025-12-09T22:15:45+07:00 | commit #1534 | style: adjust card glow drop-shadows
