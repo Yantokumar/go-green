@@ -1,4 +1,3 @@
-2025-12-22T17:25:12+07:00 | commit #1593 | docs: clarify installation steps in README
 2025-12-22T19:19:14+07:00 | commit #1594 | perf: memoize active streak calculation
 2025-12-22T21:31:01+07:00 | commit #1595 | style: add pulse animation to brand dot
 2025-12-23T10:47:53+07:00 | commit #1596 | style: improve mobile responsive layout for small screens
@@ -48,3 +47,4 @@
 2026-01-02T10:01:15+07:00 | commit #1640 | fix: preserve brush selection on palette switch
 2026-01-02T14:43:09+07:00 | commit #1641 | fix: preserve brush selection on palette switch
 2026-01-02T19:38:57+07:00 | commit #1642 | docs: update API notes for commit export
+2026-01-03T16:54:19+07:00 | commit #1643 | style: polish dark-mode theme variables
