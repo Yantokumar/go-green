@@ -1,4 +1,3 @@
-2025-12-23T16:28:36+07:00 | commit #1599 | docs: update API notes for commit export
 2025-12-23T21:43:55+07:00 | commit #1600 | perf: minimize DOM reflow during drag paint
 2025-12-24T08:39:08+07:00 | commit #1601 | refactor: optimize grid render speed
 2025-12-24T12:48:13+07:00 | commit #1602 | chore: update project dependencies and metadata
@@ -48,3 +47,4 @@
 2026-01-04T08:21:29+07:00 | commit #1646 | docs: clarify installation steps in README
 2026-01-04T11:31:39+07:00 | commit #1647 | fix: handle timezone offsets for international users
 2026-01-04T13:32:12+07:00 | commit #1648 | feat: support custom Cyberpunk neon color palette
+2026-01-04T19:16:02+07:00 | commit #1649 | style: add pulse animation to brand dot
