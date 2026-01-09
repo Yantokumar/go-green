@@ -1,4 +1,3 @@
-2025-12-27T22:59:59+07:00 | commit #1617 | refactor: clean up event listeners on grid canvas
 2025-12-28T11:50:16+07:00 | commit #1618 | style: improve mobile responsive layout for small screens
 2025-12-28T13:31:08+07:00 | commit #1619 | fix: preserve brush selection on palette switch
 2025-12-28T16:41:20+07:00 | commit #1620 | feat: add solar amber and moss teal theme palettes
@@ -48,3 +47,4 @@
 2026-01-08T10:16:40+07:00 | commit #1664 | feat: add solar amber and moss teal theme palettes
 2026-01-08T19:31:22+07:00 | commit #1665 | chore: update project dependencies and metadata
 2026-01-09T09:19:13+07:00 | commit #1666 | refactor: optimize grid render speed
+2026-01-09T10:32:17+07:00 | commit #1667 | docs: clarify installation steps in README
