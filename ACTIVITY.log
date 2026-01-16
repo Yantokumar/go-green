@@ -1,4 +1,3 @@
-2026-01-05T13:03:34+07:00 | commit #1654 | perf: minimize DOM reflow during drag paint
 2026-01-05T14:02:42+07:00 | commit #1655 | style: polish dark-mode theme variables
 2026-01-05T17:37:23+07:00 | commit #1656 | docs: update API notes for commit export
 2026-01-05T22:17:15+07:00 | commit #1657 | feat: add export script generator for Python and Bash
@@ -48,3 +47,4 @@
 2026-01-16T11:40:14+07:00 | commit #1701 | feat: add export script generator for Python and Bash
 2026-01-16T12:50:54+07:00 | commit #1702 | feat: implement synthesizer chime on click
 2026-01-16T21:56:30+07:00 | commit #1703 | perf: memoize active streak calculation
+2026-01-16T22:30:50+07:00 | commit #1704 | docs: update API notes for commit export
