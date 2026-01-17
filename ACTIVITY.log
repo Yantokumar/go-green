@@ -1,4 +1,3 @@
-2026-01-06T12:49:18+07:00 | commit #1659 | style: adjust card glow drop-shadows
 2026-01-06T18:00:11+07:00 | commit #1660 | perf: minimize DOM reflow during drag paint
 2026-01-07T09:03:18+07:00 | commit #1661 | style: add pulse animation to brand dot
 2026-01-07T17:30:22+07:00 | commit #1662 | feat: add automated streak visualizer
@@ -48,3 +47,4 @@
 2026-01-17T11:04:02+07:00 | commit #1706 | refactor: extract audio synthesizer into modular helper
 2026-01-17T14:49:31+07:00 | commit #1707 | feat: add automated streak visualizer
 2026-01-17T15:32:18+07:00 | commit #1708 | docs: update API notes for commit export
+2026-01-17T21:50:37+07:00 | commit #1709 | style: improve mobile responsive layout for small screens
