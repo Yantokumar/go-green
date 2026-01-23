@@ -1,4 +1,3 @@
-2026-01-13T08:12:33+07:00 | commit #1686 | feat: add export script generator for Python and Bash
 2026-01-13T12:14:14+07:00 | commit #1687 | perf: minimize DOM reflow during drag paint
 2026-01-13T17:52:09+07:00 | commit #1688 | refactor: optimize grid render speed
 2026-01-13T19:21:04+07:00 | commit #1689 | docs: add architecture diagram for contribution engine
@@ -48,3 +47,4 @@
 2026-01-23T11:17:24+07:00 | commit #1733 | docs: update API notes for commit export
 2026-01-23T13:13:06+07:00 | commit #1734 | test: unit test streak counter edge cases
 2026-01-23T18:16:14+07:00 | commit #1735 | docs: clarify installation steps in README
+2026-01-23T21:07:26+07:00 | commit #1736 | fix: avoid duplicate mark references in fast-import stream
