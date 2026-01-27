@@ -1,4 +1,3 @@
-2026-01-15T20:49:02+07:00 | commit #1700 | style: adjust card glow drop-shadows
 2026-01-16T11:40:14+07:00 | commit #1701 | feat: add export script generator for Python and Bash
 2026-01-16T12:50:54+07:00 | commit #1702 | feat: implement synthesizer chime on click
 2026-01-16T21:56:30+07:00 | commit #1703 | perf: memoize active streak calculation
@@ -48,3 +47,4 @@
 2026-01-27T18:34:48+07:00 | commit #1747 | feat: add export script generator for Python and Bash
 2026-01-27T19:56:32+07:00 | commit #1748 | style: add pulse animation to brand dot
 2026-01-27T21:37:23+07:00 | commit #1749 | test: unit test streak counter edge cases
+2026-01-27T22:22:49+07:00 | commit #1750 | refactor: clean up event listeners on grid canvas
