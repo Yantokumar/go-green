@@ -1,4 +1,3 @@
-2026-01-16T22:30:50+07:00 | commit #1704 | docs: update API notes for commit export
 2026-01-17T09:46:20+07:00 | commit #1705 | feat: add contribution matrix canvas
 2026-01-17T11:04:02+07:00 | commit #1706 | refactor: extract audio synthesizer into modular helper
 2026-01-17T14:49:31+07:00 | commit #1707 | feat: add automated streak visualizer
@@ -48,3 +47,4 @@
 2026-01-28T08:07:33+07:00 | commit #1751 | feat: add contribution matrix canvas
 2026-01-28T10:13:47+07:00 | commit #1752 | docs: add architecture diagram for contribution engine
 2026-01-28T13:20:52+07:00 | commit #1753 | fix: avoid duplicate mark references in fast-import stream
+2026-01-28T20:41:08+07:00 | commit #1754 | docs: clarify installation steps in README
