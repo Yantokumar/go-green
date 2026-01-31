@@ -1,4 +1,3 @@
-2026-01-19T12:22:36+07:00 | commit #1716 | perf: optimize memory footprint for long streaks
 2026-01-19T16:44:56+07:00 | commit #1717 | feat: add export script generator for Python and Bash
 2026-01-19T21:26:38+07:00 | commit #1718 | feat: add export script generator for Python and Bash
 2026-01-20T12:53:48+07:00 | commit #1719 | feat: add export script generator for Python and Bash
@@ -48,3 +47,4 @@
 2026-01-31T14:24:16+07:00 | commit #1763 | style: adjust card glow drop-shadows
 2026-01-31T15:10:43+07:00 | commit #1764 | fix: preserve brush selection on palette switch
 2026-01-31T17:38:29+07:00 | commit #1765 | fix: handle timezone offsets for international users
+2026-01-31T19:47:41+07:00 | commit #1766 | refactor: optimize grid render speed
