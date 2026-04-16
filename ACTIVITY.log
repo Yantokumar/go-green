@@ -1,4 +1,3 @@
-2026-04-07T08:58:23+07:00 | commit #2072 | docs: update API notes for commit export
 2026-04-07T10:36:48+07:00 | commit #2073 | perf: optimize memory footprint for long streaks
 2026-04-07T19:34:53+07:00 | commit #2074 | style: polish dark-mode theme variables
 2026-04-08T13:07:53+07:00 | commit #2075 | style: add pulse animation to brand dot
@@ -48,3 +47,4 @@
 2026-04-15T16:25:14+07:00 | commit #2119 | feat: add contribution matrix canvas
 2026-04-16T08:18:08+07:00 | commit #2120 | docs: clarify installation steps in README
 2026-04-16T12:54:52+07:00 | commit #2121 | test: unit test streak counter edge cases
+2026-04-16T17:55:34+07:00 | commit #2122 | docs: clarify installation steps in README
