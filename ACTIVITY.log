@@ -1,4 +1,3 @@
-2026-04-11T18:34:13+07:00 | commit #2095 | style: polish dark-mode theme variables
 2026-04-11T22:37:12+07:00 | commit #2096 | perf: minimize DOM reflow during drag paint
 2026-04-12T08:29:40+07:00 | commit #2097 | refactor: extract audio synthesizer into modular helper
 2026-04-12T09:00:31+07:00 | commit #2098 | feat: support custom Cyberpunk neon color palette
@@ -48,3 +47,4 @@
 2026-04-20T17:07:56+07:00 | commit #2142 | perf: memoize active streak calculation
 2026-04-20T19:50:27+07:00 | commit #2143 | docs: update API notes for commit export
 2026-04-20T20:05:47+07:00 | commit #2144 | style: add pulse animation to brand dot
+2026-04-20T21:16:16+07:00 | commit #2145 | perf: optimize memory footprint for long streaks
