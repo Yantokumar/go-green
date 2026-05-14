@@ -1,4 +1,3 @@
-2026-05-04T13:14:34+07:00 | commit #2204 | style: add pulse animation to brand dot
 2026-05-04T14:55:39+07:00 | commit #2205 | fix: preserve brush selection on palette switch
 2026-05-04T17:10:16+07:00 | commit #2206 | docs: update API notes for commit export
 2026-05-04T19:45:19+07:00 | commit #2207 | refactor: extract audio synthesizer into modular helper
@@ -48,3 +47,4 @@
 2026-05-13T21:53:33+07:00 | commit #2251 | feat: support custom Cyberpunk neon color palette
 2026-05-14T08:28:47+07:00 | commit #2252 | refactor: extract audio synthesizer into modular helper
 2026-05-14T09:31:55+07:00 | commit #2253 | chore: update project dependencies and metadata
+2026-05-14T10:10:35+07:00 | commit #2254 | chore: update project dependencies and metadata
