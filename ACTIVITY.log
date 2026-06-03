@@ -1,4 +1,3 @@
-2026-05-24T08:19:08+07:00 | commit #2301 | style: adjust card glow drop-shadows
 2026-05-24T10:50:06+07:00 | commit #2302 | style: polish dark-mode theme variables
 2026-05-24T15:54:24+07:00 | commit #2303 | perf: minimize DOM reflow during drag paint
 2026-05-24T16:17:30+07:00 | commit #2304 | feat: support custom Cyberpunk neon color palette
@@ -48,3 +47,4 @@
 2026-06-03T11:37:57+07:00 | commit #2348 | feat: implement synthesizer chime on click
 2026-06-03T13:41:51+07:00 | commit #2349 | perf: memoize active streak calculation
 2026-06-03T15:25:05+07:00 | commit #2350 | perf: minimize DOM reflow during drag paint
+2026-06-03T16:33:50+07:00 | commit #2351 | fix: handle timezone offsets for international users
