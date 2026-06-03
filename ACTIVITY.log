@@ -1,4 +1,3 @@
-2026-05-24T10:50:06+07:00 | commit #2302 | style: polish dark-mode theme variables
 2026-05-24T15:54:24+07:00 | commit #2303 | perf: minimize DOM reflow during drag paint
 2026-05-24T16:17:30+07:00 | commit #2304 | feat: support custom Cyberpunk neon color palette
 2026-05-24T20:48:40+07:00 | commit #2305 | refactor: extract audio synthesizer into modular helper
@@ -48,3 +47,4 @@
 2026-06-03T13:41:51+07:00 | commit #2349 | perf: memoize active streak calculation
 2026-06-03T15:25:05+07:00 | commit #2350 | perf: minimize DOM reflow during drag paint
 2026-06-03T16:33:50+07:00 | commit #2351 | fix: handle timezone offsets for international users
+2026-06-03T20:39:11+07:00 | commit #2352 | refactor: clean up event listeners on grid canvas
