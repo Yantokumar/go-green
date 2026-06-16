@@ -1,4 +1,3 @@
-2026-06-06T22:21:27+07:00 | commit #2368 | refactor: extract audio synthesizer into modular helper
 2026-06-07T09:22:45+07:00 | commit #2369 | fix: avoid duplicate mark references in fast-import stream
 2026-06-07T10:00:58+07:00 | commit #2370 | feat: implement synthesizer chime on click
 2026-06-07T11:13:23+07:00 | commit #2371 | feat: add export script generator for Python and Bash
@@ -48,3 +47,4 @@
 2026-06-16T11:57:17+07:00 | commit #2415 | style: adjust card glow drop-shadows
 2026-06-16T12:21:29+07:00 | commit #2416 | perf: memoize active streak calculation
 2026-06-16T13:48:47+07:00 | commit #2417 | style: adjust card glow drop-shadows
+2026-06-16T15:48:37+07:00 | commit #2418 | docs: update API notes for commit export
