@@ -1,4 +1,3 @@
-2026-06-13T09:13:15+07:00 | commit #2403 | perf: minimize DOM reflow during drag paint
 2026-06-13T17:34:42+07:00 | commit #2404 | fix: avoid duplicate mark references in fast-import stream
 2026-06-13T21:17:03+07:00 | commit #2405 | docs: update API notes for commit export
 2026-06-14T11:11:39+07:00 | commit #2406 | feat: add automated streak visualizer
@@ -48,3 +47,4 @@
 2026-06-22T19:24:28+07:00 | commit #2450 | feat: add solar amber and moss teal theme palettes
 2026-06-22T20:43:25+07:00 | commit #2451 | feat: add export script generator for Python and Bash
 2026-06-23T10:47:50+07:00 | commit #2452 | perf: optimize memory footprint for long streaks
+2026-06-23T15:44:00+07:00 | commit #2453 | style: improve mobile responsive layout for small screens
