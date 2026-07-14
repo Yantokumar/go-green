@@ -1,4 +1,3 @@
-2026-07-04T14:18:30+07:00 | commit #2504 | style: add pulse animation to brand dot
 2026-07-04T17:09:06+07:00 | commit #2505 | refactor: extract audio synthesizer into modular helper
 2026-07-04T21:35:26+07:00 | commit #2506 | fix: handle timezone offsets for international users
 2026-07-05T09:57:22+07:00 | commit #2507 | feat: add export script generator for Python and Bash
@@ -48,3 +47,4 @@
 2026-07-14T12:37:07+07:00 | commit #2551 | perf: minimize DOM reflow during drag paint
 2026-07-14T16:10:32+07:00 | commit #2552 | feat: add contribution matrix canvas
 2026-07-14T17:45:59+07:00 | commit #2553 | style: improve mobile responsive layout for small screens
+2026-07-14T21:41:41+07:00 | commit #2554 | fix: avoid duplicate mark references in fast-import stream
