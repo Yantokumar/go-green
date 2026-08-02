@@ -1,4 +1,3 @@
-2026-07-23T12:19:20+07:00 | commit #2596 | style: add pulse animation to brand dot
 2026-07-23T19:25:09+07:00 | commit #2597 | perf: memoize active streak calculation
 2026-07-24T08:14:14+07:00 | commit #2598 | refactor: extract audio synthesizer into modular helper
 2026-07-24T09:39:11+07:00 | commit #2599 | chore: update project dependencies and metadata
@@ -48,3 +47,4 @@
 2026-08-01T22:22:05+07:00 | commit #2643 | feat: add automated streak visualizer
 2026-08-02T08:18:26+07:00 | commit #2644 | fix: handle timezone offsets for international users
 2026-08-02T19:38:55+07:00 | commit #2645 | style: improve mobile responsive layout for small screens
+2026-08-02T20:41:32+07:00 | commit #2646 | style: adjust card glow drop-shadows
