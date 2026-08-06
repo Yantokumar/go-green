@@ -1,4 +1,3 @@
-2026-07-26T19:55:39+07:00 | commit #2612 | perf: memoize active streak calculation
 2026-07-26T21:31:05+07:00 | commit #2613 | style: adjust card glow drop-shadows
 2026-07-27T08:21:58+07:00 | commit #2614 | feat: support custom Cyberpunk neon color palette
 2026-07-27T12:59:20+07:00 | commit #2615 | perf: memoize active streak calculation
@@ -48,3 +47,4 @@
 2026-08-05T15:23:08+07:00 | commit #2659 | refactor: extract audio synthesizer into modular helper
 2026-08-05T18:12:00+07:00 | commit #2660 | fix: preserve brush selection on palette switch
 2026-08-06T09:48:27+07:00 | commit #2661 | perf: memoize active streak calculation
+2026-08-06T14:37:50+07:00 | commit #2662 | fix: avoid duplicate mark references in fast-import stream
