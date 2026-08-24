@@ -1,4 +1,3 @@
-2026-08-12T08:17:34+07:00 | commit #2687 | feat: add automated streak visualizer
 2026-08-12T09:24:41+07:00 | commit #2688 | docs: add architecture diagram for contribution engine
 2026-08-12T17:24:22+07:00 | commit #2689 | feat: add solar amber and moss teal theme palettes
 2026-08-12T20:54:05+07:00 | commit #2690 | refactor: extract audio synthesizer into modular helper
@@ -48,3 +47,4 @@
 2026-08-23T17:24:16+07:00 | commit #2734 | feat: implement synthesizer chime on click
 2026-08-23T18:26:19+07:00 | commit #2735 | feat: implement synthesizer chime on click
 2026-08-24T08:57:05+07:00 | commit #2736 | docs: add architecture diagram for contribution engine
+2026-08-24T16:08:31+07:00 | commit #2737 | fix: preserve brush selection on palette switch
