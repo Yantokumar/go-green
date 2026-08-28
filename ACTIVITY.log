@@ -1,4 +1,3 @@
-2026-08-17T17:43:43+07:00 | commit #2705 | fix: handle timezone offsets for international users
 2026-08-17T18:47:40+07:00 | commit #2706 | feat: add contribution matrix canvas
 2026-08-18T12:11:30+07:00 | commit #2707 | fix: preserve brush selection on palette switch
 2026-08-18T15:13:11+07:00 | commit #2708 | feat: implement synthesizer chime on click
@@ -48,3 +47,4 @@
 2026-08-28T08:49:56+07:00 | commit #2752 | feat: add export script generator for Python and Bash
 2026-08-28T10:42:24+07:00 | commit #2753 | refactor: extract audio synthesizer into modular helper
 2026-08-28T12:36:33+07:00 | commit #2754 | refactor: extract audio synthesizer into modular helper
+2026-08-28T20:44:17+07:00 | commit #2755 | feat: support custom Cyberpunk neon color palette
