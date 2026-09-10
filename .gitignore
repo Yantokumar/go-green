@@ -1,0 +1,6 @@
+# Ignore backup profile files
+backup_profile/
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
